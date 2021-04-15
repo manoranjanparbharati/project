@@ -1,6 +1,6 @@
 # CALCULATOR 
 
-https://i.pinimg.com/originals/43/28/c3/4328c30611e0c3a5556fa1d4cb35dae7.png
+![maths2](https://i.pinimg.com/originals/43/28/c3/4328c30611e0c3a5556fa1d4cb35dae7.png)
 
 ![maths2](https://user-images.githubusercontent.com/36398260/114144855-67df4780-9933-11eb-9ffe-48cf0093065c.jpg)
 
