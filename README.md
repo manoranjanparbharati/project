@@ -1,6 +1,8 @@
 # CALCULATOR 
 
+https://i.pinimg.com/originals/43/28/c3/4328c30611e0c3a5556fa1d4cb35dae7.png
 
+![maths2](https://user-images.githubusercontent.com/36398260/114144855-67df4780-9933-11eb-9ffe-48cf0093065c.jpg)
 
 ## Folder Structure
 
@@ -22,5 +24,5 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 ## Challenges Faced and How Was It Overcome
 | No |Challenge  | Solution
 |--|--|--|
-| 01 |Resource unavailable while using system commands  | Uninstalled MacAfee anti-virus  |
-| 02 | Make file not working even after following all steps  |renamed Mingw/bin/mingw32-make.exe to Mingw/bin/make.exe  |
+| 01 | gcc command was not working even after installing  | Added gcc to the environment variable   |
+| 02 | Failing during the compilation process  |Renaming make.out to make.exe  |
