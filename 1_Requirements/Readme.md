@@ -25,7 +25,7 @@ Depending upon the project how well it is built and all the requirements will me
 ## Defining Our System
   **Architecture:**
   
-   ![Architecture](https://user-images.githubusercontent.com/36398260/113976051-0bf6bf00-985e-11eb-82ba-8e720062fe61.PNG)
+   ![Architecture](https://github.com/Hanumanth-Reddy/ltts-miniproject/blob/master/images/calarc.png)
 
    
  - Scientific Calculator application is capable of performing following functions:
